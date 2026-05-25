@@ -178,3 +178,5 @@
 {"timestamp": "2026-05-25T07:53:45.362701", "event_type": "user_input", "content": "what is an apple"}
 {"timestamp": "2026-05-25T08:31:04.787571", "event_type": "user_input", "content": "what is an apple"}
 {"timestamp": "2026-05-25T08:35:14.356809", "event_type": "user_input", "content": "what are the updates on US-Iran War"}
+{"timestamp": "2026-05-25T08:42:37.924037", "event_type": "user_input", "content": "What are the updates of US-Iran War?"}
+{"timestamp": "2026-05-25T08:43:33.634183", "event_type": "web_search_lib_error", "error": "Authorization header with Bearer token is required for web search"}

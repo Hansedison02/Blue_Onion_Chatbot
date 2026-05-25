@@ -5,7 +5,7 @@ a = Analysis(
     ['Blue-Chat.py'],
     pathex=[],
     binaries=[],
-    datas=[('Pictures/Profile/Blue.png', 'Pictures/Profile'), ('Pictures/Icons/Send.png', 'Pictures/Icons'), ('Data_Geopolitics_Blue_Onion.csv', '.'), ('Fonts/Cascadia_Mono', 'Cascadia_Mono')],
+    datas=[('Pictures/Profile/Blue.png', 'Pictures/Profile'), ('Pictures/Icons/Send.png', 'Pictures/Icons'), ('Data_Geopolitics_Blue_Onion.csv', '.'), ('Fonts', 'Cascadia_Mono')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
